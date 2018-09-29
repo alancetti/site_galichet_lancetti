@@ -1,1 +1,1 @@
-site_galichet_lancetti
+J'ai laissé les noms de base pour les .css
